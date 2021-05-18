@@ -1,4 +1,5 @@
 # AHMET MERT PULÇU'S PROGRESS JOURNAL
+### This is my progress journal for my specialization course Statistical Forecasting and Time Series
 ## Homework 1(19.04.2021)
 ## Time Series Data Visualization and Interpretation
 + [Here](files/Ahmet_Mert_Pulcu_HW1.html) is the homework 1 html file.
