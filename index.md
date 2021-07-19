@@ -14,12 +14,12 @@
 + [Here](files1/Ahmet_Mert_Pulcu_HW3.Rmd) is the homework 3 Rmd file.
 ## Homework 4(02.02.2021)
 ### Building Models to Predict the Number of Sales.
-+ [Here](files/Ahmet_Mert_Pulçu_HW4.html) is the homework 4 html file.
-+ [Here](files/Ahmet_Mert_Pulçu_HW4.Rmd) is the homework 4 Rmd file.
-+ [Here](files/g13.xlsx) is the adjusted Trendyol data that we used in this assignment.
++ [Here](files1/Ahmet_Mert_Pulçu_HW4.html) is the homework 4 html file.
++ [Here](files1/Ahmet_Mert_Pulçu_HW4.Rmd) is the homework 4 Rmd file.
++ [Here](files1/g13.xlsx) is the adjusted Trendyol data that we used in this assignment.
 ## Project(02.07.2021)
 ### Forecasting Daily Sales of Certain Products Between 11.06-25.06.2021
-+ [Here](files/Project.html) is the Project html file.
-+ [Here](files/Project.Rmd) is the Project Rmd file.
-+ [Here](files/Project.R) is the Project R Script file.
-+ [Here](files/g13.xlsx) is the adjusted Trendyol data that we used in this assignment.
++ [Here](files1/Project.html) is the Project html file.
++ [Here](files1/Project.Rmd) is the Project Rmd file.
++ [Here](files1/Project.R) is the Project R Script file.
++ [Here](files1/g13.xlsx) is the adjusted Trendyol data that we used in this assignment.
